@@ -1,6 +1,6 @@
 # NaijaGenome Explorer
 
-> **Exploring Nigerian and African Genomic Diversity**
+> Advancing African Genomics Through Open Science, Accessible Software, and Integrated Public Data.
 
 ![Status](https://img.shields.io/badge/status-active%20development-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.11+-blue)
@@ -12,13 +12,15 @@
 
 ## Overview
 
-African populations harbor the greatest genetic diversity in the world, yet they remain underrepresented in many genomic software tools and reference resources. Although several public databases provide access to genomic data, researchers often need to consult multiple platforms to answer even basic questions about a gene or variant.
+African populations harbor the greatest genetic diversity in the world, yet researchers studying African genomes often need to navigate multiple databases, publications, and software tools to answer a single biological question. This fragmentation creates barriers to research, education, collaboration, and the translation of genomic discoveries into real-world impact.
 
-**NaijaGenome Explorer** is an open-source bioinformatics platform that aims to make publicly available Nigerian and African genomic variation easier to search, analyze, and visualize.
+**NaijaGenome Explorer** is the flagship application of the **NaijaGenome** platform—an open-source initiative dedicated to advancing African genomics through accessible software, integrated public data, and education. It brings together publicly available genomic variation, clinical annotations, population genetics, pharmacogenomics, and educational resources into a unified, searchable platform focused on Nigerian and African populations.
 
-The project begins with publicly available Yoruba (YRI) datasets and is designed to expand to additional Nigerian and African populations as more high-quality public datasets become available.
+The platform begins with publicly available Yoruba (YRI) datasets and is designed to expand to additional Nigerian and African populations as high-quality public genomic resources become available. Our long-term vision is to create an ecosystem that supports scientific discovery, education, and collaboration while improving the accessibility and representation of African genomic data.
 
-Our mission is to build a modern, intuitive platform that supports researchers, educators, students, and healthcare professionals interested in African genomics.
+**Our mission** is to advance African genomics by building open, evidence-based, and accessible software that empowers researchers, educators, clinicians, students, and developers to explore, understand, and apply genomic knowledge.
+
+NaijaGenome Explorer does not seek to replace existing genomic resources. Instead, it builds upon trusted public datasets and databases, integrating them into a cohesive platform that makes African genomic data easier to discover, interpret, visualize, and apply for research, education, and innovation.
 
 ---
 
