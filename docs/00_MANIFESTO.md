@@ -32,18 +32,13 @@ That question became the foundation of NaijaGenome.
 
 ---
 
-# Our Mission
+# Our Purpose
 
-Our mission is to advance African genomics by building open, evidence-based, and accessible software that empowers researchers, educators, clinicians, students, and developers to explore, understand, and apply genomic knowledge.
+NaijaGenome exists to reduce the barriers that prevent researchers, educators, clinicians, students, and developers from effectively discovering, understanding, and applying African genomic knowledge.
 
----
+We believe that scientific software should not only organize information but also make it easier to learn from, connect, and build upon. Every dataset integrated, every tool developed, and every educational resource created should contribute to a future where African genomics is more accessible, collaborative, and impactful.
 
-# Our Vision
-
-We envision a future where African genomic data is as accessible, discoverable, and interconnected as any other major genomic resource.
-
-We aspire to build an open platform that supports scientific discovery, education, collaboration, and innovation while helping improve the visibility and accessibility of African genomic research.
-
+NaijaGenome is not defined by a single application, technology, or dataset. It is defined by its commitment to advancing open science, improving accessibility, and strengthening the infrastructure that supports African genomics.
 ---
 
 # What We Believe
@@ -96,7 +91,7 @@ Increasing the visibility, accessibility, and responsible use of African genomic
 
 ---
 
-# What We Will Build
+# What We Aspire to Build
 
 NaijaGenome is more than a single application.
 
@@ -178,14 +173,10 @@ Every feature we build, every dataset we integrate, and every line of code we wr
 
 # Our Promise
 
-We build with curiosity.
+We believe that the future of genomics should be open, collaborative, evidence-based, and inclusive—and that African genomic knowledge should be as discoverable and accessible as any other scientific resource.
 
-We build with integrity.
+NaijaGenome is our contribution toward that future.
 
-We build for science.
+Every dataset we integrate, every tool we develop, every lesson we create, and every line of code we write is guided by a single purpose:
 
-We build for education.
-
-We build for collaboration.
-
-Above all, we build so that African genomic knowledge becomes easier to discover, understand, and apply—for everyone.
+**To make African genomics easier to discover, understand, and apply—for everyone.**
